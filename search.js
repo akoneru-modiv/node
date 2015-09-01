@@ -1,6 +1,5 @@
 var fs = require('fs');
 var pModule = require('path');
-var path = process.argv[2];
 var keys = [];
 
 
